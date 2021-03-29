@@ -32,11 +32,14 @@ Things you need to prepare before launch the project.
 1. Install Composer [here](https://getcomposer.org/download/)
 2. Install NPM [here](https://www.npmjs.com/get-npm)
 3. Install Xampp [here](https://www.apachefriends.org/download.html)
-## IMPORTANT! USE LARAGON
+
+## IMPORTANT! USE LARAGON [HERE](https://laragon.org/download/index.html)
+If The Project won't run in xampp, because the Virtual Host.
+Please use LARAGON With PHP^7. 
 
 ### Installing
 
-A step by step how to get a development env runnig
+A step by step how to get a development env running
 
 1. Go to the project and run the command below in CMD/Gitbash/Terminal.
     ```
@@ -44,7 +47,7 @@ A step by step how to get a development env runnig
     ```
    Wait untill it's finished.
    
-2. Create Database MySQL.
+2. Create MySQL Database.
    In CMD/Gitbash/Terminal run
     ```
     mysql -u root -p
@@ -67,7 +70,15 @@ A step by step how to get a development env runnig
     ```
     php artisan apm:cc
     ```
-    
+4. If all the steps above have been done well,
+   now let's we start the server
+   ```
+   php artisan serve
+   ```
+5. Open the server URL in browser
+   ```
+   http://127.0.0.1:8000
+   ```
 
 ### User And Admin
 username: user
@@ -75,6 +86,8 @@ password: 12345678
 
 username: daffa
 password: 12345678
+
+If there's something wrong with login, please create a new user.
 
 ### Built With
 * [Laravel 8](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
