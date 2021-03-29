@@ -29,21 +29,23 @@
 * Composer
 <p>Install Composer | Download <a href="https://getcomposer.org/download/">here</a></p>
 Then check if installed
-```sh
+  ```sh
   composer
-```
+  ```
+
 * NPM
 <p>Install NPM | Download <a href="https://getcomposer.org/download/">here</a></p>
 Then check if installed
-```sh
+  ```sh
   composer
-```
+  ```
+
 * Xampp
 <p>Install Xampp | Download <a href="https://getcomposer.org/download/">here</a></p>
 Then check if installed
-```sh
+  ```sh
   composer
-```
+  ```
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
