@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
     <a href="https://www.linkedin.com/in/abhisheknaiidu/">
     <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-    [<img src="https://button.ibnux.net/trakteer/ibnux.png" width="128">](https://trakteer.id/daffanh_6633)
+    [<img src="https://i.ibb.co/nQ7hhJL/trakteer-button.jpg" width="128">](https://trakteer.id/daffanh_6633)
 </a>
 </p>
   
