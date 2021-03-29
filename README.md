@@ -27,11 +27,11 @@
 ### Prerequisites
 <p>Things you need before run the project.</p>
 * Composer
-<p>Install Composer | Download <a href="https://getcomposer.org/download/">here</a></p>
-Then check if installed
-```bash
-npx anmol
-```
+
+1. <p>Install Composer | Download <a href="https://getcomposer.org/download/">here</a></p>
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
 
 * NPM
 <p>Install NPM | Download <a href="https://getcomposer.org/download/">here</a></p>
