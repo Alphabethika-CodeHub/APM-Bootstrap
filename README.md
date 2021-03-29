@@ -29,21 +29,21 @@
 * Composer
 
 1. <p>Install Composer | Download</p>
-   ```sh
+   ```
    git clone https://github.com/your_username_/Project-Name.git
    ```
 
 * NPM
 <p>Install NPM | Download</p>
 Then check if installed
-```bash
+```
 npx anmol
 ```
 
 * Xampp
 <p>Install Xampp | Download <a href="https://getcomposer.org/download/">here</a></p>
 Then check if installed
-  ```sh
+  ```
   composer
   ```
 
