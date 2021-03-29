@@ -16,11 +16,10 @@
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
     <a href="https://www.linkedin.com/in/abhisheknaiidu/">
-    <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-    [<img src="https://i.ibb.co/nQ7hhJL/trakteer-button.jpg" width="128">](https://trakteer.id/daffanh_6633)
+    <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />    
 </a>
 </p>
-  
+[<img src="https://i.ibb.co/HFFj2Nj/trakteer-button.png" width="128">](https://trakteer.id/daffanh_6633)
 ## Getting Started
 <p>Aplikasi Pengaduan Masyarakat Untuk Ujikom 2021</p>
 
