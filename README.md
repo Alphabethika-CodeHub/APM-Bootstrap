@@ -39,7 +39,7 @@ Please use LARAGON With PHP^7.
 
 ### Installing
 
-A step by step how to get a development env running
+A step by step how to get a development env running.
 
 1. Go to the project and run the command below in CMD/Gitbash/Terminal.
     ```
