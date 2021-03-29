@@ -68,6 +68,13 @@ A step by step how to get a development env runnig
     ```
     
 
+### User And Admin
+username: user
+password: 12345678
+
+username: daffa
+password: 12345678
+
 ### Built With
 * [Laravel 8](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Bootstrap 5]() - The CSS framework used
