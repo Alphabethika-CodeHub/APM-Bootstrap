@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
 </p>
 
-[[Linkedin Badge](https://img.shields.io/badge/-Anurag%20Singh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/daffa-nabil-hartono-800271178/)]
+[![Linkedin Badge](https://img.shields.io/badge/-Anurag%20Singh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/daffa-nabil-hartono-800271178/)]
 
 <a href="https://trakteer.id/daffanh_eui77">
   <img alt="donate coffee" src="https://i.ibb.co/R02Pnc3/trakteer-button.png" />    
