@@ -22,9 +22,8 @@
   
 ## Getting Started
 <p>Aplikasi Pengaduan Masyarakat Untuk Ujikom 2021</p>
-<p>Setting up the project.</p>
 
-### Prerequisites
+### Prerequisites | Setting up the project
 
 Things you need to prepare before launch the project.
 1. Install Composer
