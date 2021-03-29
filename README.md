@@ -29,9 +29,9 @@
 * Composer
 <p>Install Composer | Download <a href="https://getcomposer.org/download/">here</a></p>
 Then check if installed
-  ```sh
-  composer
-  ```
+```bash
+npx anmol
+```
 
 * NPM
 <p>Install NPM | Download <a href="https://getcomposer.org/download/">here</a></p>
