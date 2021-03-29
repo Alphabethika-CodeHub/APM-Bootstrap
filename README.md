@@ -15,14 +15,35 @@
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
-</p>
-  
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+    <a href="https://www.linkedin.com/in/abhisheknaiidu/">
     <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+</p>
+  
 ## Getting Started
-Aplikasi Pengaduan Masyarakat Untuk Ujikom 2021
+<p>Aplikasi Pengaduan Masyarakat Untuk Ujikom 2021</p>
+<p>Setting up the project.</p>
+
+### Prerequisites
+<p>Things you need before run the project.</p>
+* Composer
+<p>Install Composer | Download <a href="https://getcomposer.org/download/">here</a></p>
+Then check if installed
+```sh
+  composer
+```
+* NPM
+<p>Install NPM | Download <a href="https://getcomposer.org/download/">here</a></p>
+Then check if installed
+```sh
+  composer
+```
+* Xampp
+<p>Install Xampp | Download <a href="https://getcomposer.org/download/">here</a></p>
+Then check if installed
+```sh
+  composer
+```
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
