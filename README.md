@@ -34,7 +34,7 @@
    ```
 
 * NPM
-<p>Install NPM | Download <a href="https://getcomposer.org/download/">here</a></p>
+<p>Install NPM | Download</p>
 Then check if installed
 ```bash
 npx anmol
