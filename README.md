@@ -34,14 +34,32 @@ Things you need to prepare before launch the project.
 
 A step by step how to get a development env runnig
 
-1. Go to project run command bellow in CMD/Gitbash/Terminal And wait untill it's finished
+1. Go to the project and run the command below in CMD/Gitbash/Terminal.
     ```
     composer update
     ```
-2. Create Database MySQL
+   Wait untill it's finished.
+   
+2. Create Database MySQL.
+   In CMD/Gitbash/Terminal run
     ```
     mysql -u root -p
     ```
+   then
+    ```
+     create database apm_bootstrap;
+    ```
+   if database has been created
+    ```
+     exit
+    ```
+
+3. In the project run the command below in CMD/Gitbash/Terminal.
+    ```
+    php artisan apm:db
+    ```
+    To wipe, migrating and seeding the database.
+
 
 ### Built With
 * [Laravel](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
