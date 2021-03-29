@@ -36,9 +36,9 @@ Then check if installed
 * NPM
 <p>Install NPM | Download <a href="https://getcomposer.org/download/">here</a></p>
 Then check if installed
-  ```sh
-  composer
-  ```
+```bash
+npx anmol
+```
 
 * Xampp
 <p>Install Xampp | Download <a href="https://getcomposer.org/download/">here</a></p>
