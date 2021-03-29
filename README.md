@@ -80,16 +80,15 @@ A step by step how to get a development env running
    http://127.0.0.1:8000
    ```
 
-### User And Admin
+### User And Admin | If there's something wrong with login, please create a new user.
 username: user
 password: 12345678
 
 username: daffa
 password: 12345678
 
-If there's something wrong with login, please create a new user.
-
 ### Built With
-* [Laravel 8](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Laravel 8]() - The web framework used
 * [Bootstrap 5]() - The CSS framework used
 * [MySQL / MariaDB]() - The Database used
+* [Nginx]() - The web server used
