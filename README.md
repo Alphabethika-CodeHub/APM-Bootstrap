@@ -29,9 +29,9 @@
 ### Prerequisites | Setting up the project
 
 Things you need to prepare before launch the project.
-1. Install Composer
-2. Install NPM
-3. Install Xampp
+1. Install Composer [here](https://getcomposer.org/download/)
+2. Install NPM [here](https://www.npmjs.com/get-npm)
+3. Install Xampp [here](https://www.apachefriends.org/download.html)
 
 ### Installing
 
@@ -58,13 +58,17 @@ A step by step how to get a development env runnig
     ```
 
 3. In the project run the command below in CMD/Gitbash/Terminal.
+   To wipe, migrating and seeding the database.
     ```
     php artisan apm:db
     ```
-    To wipe, migrating and seeding the database.
-
+    Run cleaner command.
+    ```
+    php artisan apm:cc
+    ```
+    
 
 ### Built With
-* [Laravel](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Laravel 8](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Bootstrap 5]() - The CSS framework used
 * [MySQL / MariaDB]() - The Database used
