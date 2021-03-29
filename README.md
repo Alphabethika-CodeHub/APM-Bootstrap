@@ -32,6 +32,7 @@ Things you need to prepare before launch the project.
 1. Install Composer [here](https://getcomposer.org/download/)
 2. Install NPM [here](https://www.npmjs.com/get-npm)
 3. Install Xampp [here](https://www.apachefriends.org/download.html)
+### IMPORTANT! USE LARAGON
 
 ### Installing
 
