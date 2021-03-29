@@ -34,27 +34,16 @@ Things you need to prepare before launch the project.
 
 A step by step how to get a development env runnig
 
-1. Go to project run command bellow in CMD/Gitbash/Terminal
-```
-composer update
-```
+1. Go to project run command bellow in CMD/Gitbash/Terminal And wait untill it's finished
+    ```
+    composer update
+    ```
+2. Create Database MySQL
+    ```
+    mysql -u root -p
+    ```
 
-And repeat
-
-```
-until finished
-```
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
+### Built With
+* [Laravel](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Bootstrap 5]() - The CSS framework used
+* [MySQL / MariaDB]() - The Database used
