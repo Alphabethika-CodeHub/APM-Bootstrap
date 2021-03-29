@@ -19,7 +19,11 @@
         <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />    
     </a>
 </p>
-[![Trakteer](https://i.ibb.co/R02Pnc3/trakteer-button.png)](https://trakteer.id/daffanh_6633)
+
+<a href="https://trakteer.id/daffanh_6633">
+  <img align="left" alt="donate coffee" src="https://i.ibb.co/R02Pnc3/trakteer-button.png" />    
+</a>
+
 ## Getting Started
 <p>Aplikasi Pengaduan Masyarakat Untuk Ujikom 2021</p>
 
