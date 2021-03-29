@@ -25,36 +25,19 @@
 <p>Setting up the project.</p>
 
 ### Prerequisites
-<p>Things you need before run the project.</p>
-* Composer
 
-1. <p>Install Composer | Download</p>
-   ```
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-
-* NPM
-<p>Install NPM | Download</p>
-Then check if installed
-```
-npx anmol
-```
-
-* Xampp
-<p>Install Xampp | Download <a href="https://getcomposer.org/download/">here</a></p>
-Then check if installed
-  ```
-  composer
-  ```
+Things you need to prepare before launch the project.
+1. Install Composer
+2. Install NPM
+3. Install Xampp
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+A step by step how to get a development env runnig
 
-Say what the step will be
-
+1. Go to project run command bellow in CMD/Gitbash/Terminal
 ```
-Give the example
+composer update
 ```
 
 And repeat
