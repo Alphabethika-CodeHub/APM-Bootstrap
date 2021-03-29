@@ -28,7 +28,7 @@
 <p>Things you need before run the project.</p>
 * Composer
 
-1. <p>Install Composer | Download <a href="https://getcomposer.org/download/">here</a></p>
+1. <p>Install Composer | Download</p>
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
